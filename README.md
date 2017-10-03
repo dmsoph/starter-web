@@ -13,8 +13,3 @@ Sample website with plenty of files for demos
 ## Kiwi Stop
 kiwistop cancel
 blah
-
-
-##copyright notice
-
-2017 git.training.
