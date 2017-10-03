@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
-add more texts and adding a line for rebasing example
+add more texts and adding a line for rebasing example, the more changes to my feature from branch 2
 ## How To Contribute
 plese fork this repo. 
 ## Deployment
