@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## Kiwi Stop
+kiwistop cancel
