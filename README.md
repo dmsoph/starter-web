@@ -17,7 +17,8 @@ blah
 
 ##copyright notice
 
-2017 git.training.
+2017 git.training. all rights reserved
 
 
 change some moooore
+
